@@ -1,10 +1,5 @@
 # Samsung-RISC---V
 
-Theory
-
-Task1
-
-![Screenshot 2025-01-06 161249](https://github.com/user-attachments/assets/38ea920d-015a-4258-8409-84ce20f2c0fa)
-
-![Screenshot 2025-01-06 231405](https://github.com/user-attachments/assets/4050835f-2d34-4ec1-b3c0-fda4f3c7a500)
+![Screenshot 2025-01-06 161249](https://github.com/user-attachments/assets/a93518d3-d230-4d6b-a757-0815eadf841b)
+![Screenshot 2025-01-06 231405](https://github.com/user-attachments/assets/ae4a6ca6-2b89-45a3-b4b1-4181d32f3736)
 
