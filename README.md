@@ -4,7 +4,7 @@ Theory
 
 Task1
 
-![Screenshot 2025-01-06 161249](https://github.com/user-attachments/assets/a07bf373-478f-4765-9c94-a0e0b1e6f83d)
+![Screenshot 2025-01-06 161249](https://github.com/user-attachments/assets/522ddf2c-b4d0-4cd1-9909-e044607744a5)
 
-![Screenshot 2025-01-06 231405](https://github.com/user-attachments/assets/e2094471-5446-40a0-8e17-aa5066b97530)
+![Screenshot 2025-01-06 231405](https://github.com/user-attachments/assets/ca57d19f-d9e0-4717-ab73-3e48eb0d1c44)
 
