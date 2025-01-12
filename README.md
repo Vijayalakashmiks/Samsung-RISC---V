@@ -15,7 +15,7 @@
     Task2
   </summary>
   <br>
-![Screenshot 2025-01-12 195812](https://github.com/user-attachments/assets/07c1d483-12ac-4554-9dbf-fb042b47f846)
+![Screenshot 2025-01-12 195812](https://github.com/user-attachments/assets/07c1d483-12ac-4554-9dbf-fb042b47f846).
   
 ![Screenshot 2025-01-12 193814](https://github.com/user-attachments/assets/e49bccb6-0d0c-4d7e-ab37-a302fb9d6b71)
 
