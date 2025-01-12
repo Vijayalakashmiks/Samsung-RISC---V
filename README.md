@@ -10,7 +10,10 @@
 ![Screenshot 2025-01-06 231405](https://github.com/user-attachments/assets/ae4a6ca6-2b89-45a3-b4b1-4181d32f3736)
 
 <details>
-  <summary>
+<details>
+    <summary>
     Task2
   </summary>
   <br>
+</details>
+
