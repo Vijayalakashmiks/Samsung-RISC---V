@@ -15,5 +15,11 @@
     Task2
   </summary>
   <br>
+![Screenshot 2025-01-12 194106](https://github.com/user-attachments/assets/0c61e977-670a-4a51-a57a-ffe2b9b44162)
+  
+![Screenshot 2025-01-12 193814](https://github.com/user-attachments/assets/e49bccb6-0d0c-4d7e-ab37-a302fb9d6b71)
+
+![Screenshot 2025-01-12 193024](https://github.com/user-attachments/assets/dc008f2c-bc88-4ae4-a896-be3e5cced0a8)
 </details>
+
 
