@@ -15,11 +15,12 @@
     Task2
   </summary>
   <br>
-![Screenshot 2025-01-12 195812](https://github.com/user-attachments/assets/07c1d483-12ac-4554-9dbf-fb042b47f846).
-  
-![Screenshot 2025-01-12 193814](https://github.com/user-attachments/assets/e49bccb6-0d0c-4d7e-ab37-a302fb9d6b71)
 
-![Screenshot 2025-01-12 193024](https://github.com/user-attachments/assets/dc008f2c-bc88-4ae4-a896-be3e5cced0a8)
+![Screenshot 2025-01-12 194106](https://github.com/user-attachments/assets/2517d45a-60bb-4f52-b837-bc037d6d5595)
+
+![Screenshot 2025-01-12 193814](https://github.com/user-attachments/assets/7944f632-aaa2-4453-b312-10e86f944862)
+
+![Screenshot 2025-01-12 193024](https://github.com/user-attachments/assets/f14837c9-97a2-4c60-b821-e2635b6c72b0)
 </details>
 
 
